@@ -1,0 +1,8 @@
+=> [32m#<Party:0x00005575d7daa820[0m
+ id: [1;34m1[0m,
+ name: [31m[1;31m"[0m[31mThe Full Stack[1;31m"[0m[31m[0m,
+ campaign: [31m[1;31m"[0m[31mSinatra's Shadow[1;31m"[0m[31m[0m,
+ [1;34;4mDM[0m: [31m[1;31m"[0m[31mDr. Ruby[1;31m"[0m[31m[0m,
+ description:
+  [31m[1;31m"[0m[31mOn a quest to defeat the evil sorcerer Sinatra, our adventurers travel through a land of riches and rubys reacting to the foul plots of their foe.[1;31m"[0m[31m[0m,
+ user_id: [1;34m1[0m[32m>[0m
